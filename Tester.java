@@ -1,0 +1,13 @@
+import java.util.*;
+public class Atest {
+    public static void main(String arg[]){
+		String text = "()<>[]{}\"z";
+		text = text.replaceAll(">","&gt;");
+        text = text.replaceAll("<","&lt;");
+		text = text.replaceAll("[(]","&#40;");
+		text = text.replaceAll("[)]","&#41;");
+		text = text.replaceAll("\"", "\\\\\"");
+		System.out.println(text);
+    }
+}
+
