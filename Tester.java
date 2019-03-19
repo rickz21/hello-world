@@ -16,4 +16,7 @@ public class Atest {
 //again I don't know which branch
 // on rickbranch?
 //on richbranch again!!!!
-// tues rickbranch at github
+//tuesday learning
+// tuesday edit master at github
+// tues second edit on desktop!!!!
+
